@@ -1,6 +1,6 @@
 # keras-explain-eval
 
-This repository contains scripts for visualise explanations and evaluate 
+This repository contains scripts for visualize explanations and evaluate 
 the explanation approaches. 
 
 `compare_approches_pathces` implements explanation selectivity method by
